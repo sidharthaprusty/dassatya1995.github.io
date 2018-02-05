@@ -1,0 +1,14 @@
+[
+  {
+    "url": {
+      "small": "https://api.androidhive.info/images/glide/small/deadpool.jpg",
+      "large": "https://api.androidhive.info/images/glide/large/deadpool.jpg"
+    }
+  },
+  {
+    "url": {
+      "small": "https://api.androidhive.info/images/glide/small/bvs.jpg",
+      "large": "https://api.androidhive.info/images/glide/large/bvs.jpg"
+    }
+  }
+]
