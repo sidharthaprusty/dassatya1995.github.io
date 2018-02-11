@@ -1,14 +1,55 @@
 [
   {
     "url": {
-      "small": "https://api.androidhive.info/images/glide/small/deadpool.jpg",
-      "large": "https://api.androidhive.info/images/glide/large/deadpool.jpg"
+      "small": https://drive.google.com/open?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q,
+      "large": https://drive.google.com/open?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q
     }
   },
   {
     "url": {
-      "small": "https://api.androidhive.info/images/glide/small/bvs.jpg",
-      "large": "https://api.androidhive.info/images/glide/large/bvs.jpg"
+      "small": https://drive.google.com/open?id=1qIUghucIeoMy3CUqv6Dw99lx7hyioKVt,
+      "large": https://drive.google.com/open?id=1qIUghucIeoMy3CUqv6Dw99lx7hyioKVt
+    }
+  },
+{
+    "url": {
+      "small": https://drive.google.com/open?id=1ckG-pGnGnzSHpCzbQDG_z98PouNeVe_v,
+      "large": https://drive.google.com/open?id=1ckG-pGnGnzSHpCzbQDG_z98PouNeVe_v
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=1NQKb5xUqjyzkaxzXVxFmjqm8ZTN1s4nD,
+      "large": https://drive.google.com/open?id=1NQKb5xUqjyzkaxzXVxFmjqm8ZTN1s4nD
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=1-9Z3dqAIWAmrP50FdfKUHM4udjX9KV1A,
+      "large": https://drive.google.com/open?id=1-9Z3dqAIWAmrP50FdfKUHM4udjX9KV1A
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=1M1-noMF08UVY3Xjf66oJfNwUBo-m63fx,
+      "large": https://drive.google.com/open?id=1M1-noMF08UVY3Xjf66oJfNwUBo-m63fx
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=14pTJ5pe6aSURo9-h2cPRxJ8fw7spu-Lh,
+      "large": https://drive.google.com/open?id=14pTJ5pe6aSURo9-h2cPRxJ8fw7spu-Lh
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=183FSgplm7T1hQWEWZ9pLlmwmNntEXxv3,
+      "large": https://drive.google.com/open?id=183FSgplm7T1hQWEWZ9pLlmwmNntEXxv3
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=1HfJZ9KfCXqIGqPEEfyjhtSZmrgBJMZlH,
+      "large": https://drive.google.com/open?id=1HfJZ9KfCXqIGqPEEfyjhtSZmrgBJMZlH
+    }
+  },{
+    "url": {
+      "small": https://drive.google.com/open?id=1Br4NsBQm9snuMgKUIfi28_NgfIW0T9ZI,
+      "large": https://drive.google.com/open?id=1Br4NsBQm9snuMgKUIfi28_NgfIW0T9ZI
     }
   }
 ]
