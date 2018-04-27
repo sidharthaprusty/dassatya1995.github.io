@@ -2,13 +2,10 @@
     "Categories": 
         [
             {
-                "name": "People"
+                "name": "Abtract"
             },
             {
                 "name": "Architecture"
-            },
-            {
-                "name": "City"
             },
             {
                 "name": "Mountain"
@@ -49,8 +46,8 @@
         [
 			{
 				"author": "Sweet Ice Cream Photography",
-				"url": "https://unsplash.it/5472/3648?image=1083",
-				"thumbUrl": "https://unsplash.it/400/200?image=1083",
+				"url": "https://drive.google.com/open?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q",
+				"thumbUrl": "https://drive.google.com/open?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q",
 				"name": "Ceningan island, Indonesia",
                 "category": "people"
 			},
