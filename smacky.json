@@ -6,39 +6,6 @@
             },
             {
                 "name": "Architecture"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
-            },
-            {
-                "name": "Nature"
-            },
-            {
-                "name": "Satellite"
-            },
-            {
-                "name": "Animal"
-            },
-            {
-                "name": "Ocean"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
-            },
-            {
-                "name": "Black and White"
-            },
-            {
-                "name": "House"
             }
         ],
     
@@ -55,19 +22,19 @@
 				"url": "https://drive.google.com/uc?id=1qIUghucIeoMy3CUqv6Dw99lx7hyioKVt",
 				"thumbUrl": "https://drive.google.com/uc?id=1qIUghucIeoMy3CUqv6Dw99lx7hyioKVt",
 				"name": "Ceningasdafn island, Indonesia",
-                "category": "Road"
+                "category": "Architecture"
 			},	{
 				"author": "Sweet Ice Cream Phkrotography",
 				"url": "https://drive.google.com/uc?id=pGnGnzSHpCzbQDG_z98PouNeVe_v",
 				"thumbUrl": "https://drive.google.com/uc?id=pGnGnzSHpCzbQDG_z98PouNeVe_v",
 				"name": "Ceningan islafsdswqerand, Indonesia",
-                "category": "people"
+                "category": "Architecture"
 			},	{
 				"author": "Sweet Ice Cream Photography",
 				"url": "https://drive.google.com/uc?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q",
 				"thumbUrl": "https://drive.google.com/uc?id=1wc39vlJBnHy5BEyzzNuxXC27hw8wmx5q",
 				"name": "Ceningan island, Indgfhjowqernesia",
-                "category": "House"
+                "category": "Architecture"
 			}
 		]
 }
