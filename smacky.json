@@ -1060,13 +1060,7 @@
 			"name": "Rose || Coffee",
 			"category": "Flowers"
 		},
-		{
-			"author": "Smacky™",
-			"url": "https://drive.google.com/uc?id=1SDkXfM2yf98MUwqSJWdLYAw_udWchJe7",
-			"thumbUrl": "https://drive.google.com/uc?id=127rU-A52mLDSrUWC8-II6_4iSHpKLPCL",
-			"name": "Girl with roses",
-			"category": "Flowers"
-		},
+		
 
 
 
@@ -2379,6 +2373,27 @@
 			"thumbUrl": "https://drive.google.com/uc?id=1NLL1UjjbJHulxMW-dGt_Qn2aL7jaO1pe",
 			"name": "Mountain",
 			"category": "Ultrawide Wallpapers"
+		},
+		{
+			"author": "Smacky™",
+			"url": "https://drive.google.com/uc?id=1SDkXfM2yf98MUwqSJWdLYAw_udWchJe7",
+			"thumbUrl": "https://drive.google.com/uc?id=127rU-A52mLDSrUWC8-II6_4iSHpKLPCL",
+			"name": "Girl with roses",
+			"category": "Flowers"
+		},
+		{
+			"author": "Smacky™",
+			"url": "https://drive.google.com/open?id=1sRKDfqUj6t60OCq2cktnYvZaOWNctK0s",
+			"thumbUrl": "https://drive.google.com/open?id=1Dkpzh-eH6fQxgeT6XD5iVybJtbe_ndSj",
+			"name": "Butterfly",
+			"category": "Nature"
+		},
+		{
+			"author": "Smacky™",
+			"url": "https://drive.google.com/open?id=14Pwq0kbAKHhoIUaFnEuIyZpyMnk2inbz",
+			"thumbUrl": "https://drive.google.com/open?id=1pmDKTmX08XQYqKpHd1H4bft3OPoDrk9k",
+			"name": "White flower",
+			"category": "Nature"
 		}
 
 
